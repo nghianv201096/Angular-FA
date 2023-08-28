@@ -8,7 +8,7 @@
 - Having knowledge with building web api
 
 # II. After finish this course you can
-- Understand the full lifecycle of development an angular app: setup, implementation(design + code) and deploy an angular application
+- Understand the full lifecycle of building an angular app: setup, implementation(design + code) and deploy an angular application
 - Can build a simple angular web app to allow login, logout, manage list of products like view list of product, view product detail, add a new product, update an existing product or delete it.
 
 # III. Steps to go through
