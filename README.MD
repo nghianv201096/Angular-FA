@@ -13,7 +13,7 @@ You're an .NET developer and already having an Web API with following api:
 - Get list of project, create a product, delete a product, update a product
 
 You want to create an angular app consuming your exist apis and allow login, logout and managing product by UI.
-Then this course is absolutely suitable for you.
+Then this course is absolutely what you're finding.
 
 ### 2. After finish this course you can
 - Understand the full lifecycle of building an angular app: setup, implementation(design + code) and deployment.
