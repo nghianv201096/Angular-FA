@@ -7,7 +7,14 @@
 - Having knowledge with building web api
 
 # II. Ultimate objective
-After finish this course you can
+### 1. Context:
+You're an .NET developer and already having an Web API with following api:
+- Login, Logout with JWT token
+- Get list of project, create a product, delete a product, update a product
+You want to create an angular app that allow login, logout and managing product that will consume your exist apis.
+Then this course is absolutely suitable for you.
+
+### 2. After finish this course you can
 - Understand the full lifecycle of building an angular app: setup, implementation(design + code) and deployment.
 - Can build a basic angular app with features like: 
     - Login 
