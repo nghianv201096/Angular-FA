@@ -7,7 +7,7 @@
 - Having knowledge with building web api
 
 # II. Ultimate objective
-### 1. Context:
+### 1. Context
 You're an .NET developer and already having an Web API with following api:
 - Login, Logout with JWT token
 - Get list of project, create a product, delete a product, update a product
