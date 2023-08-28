@@ -2,8 +2,8 @@
 # LEARNING ANGULAR FROM BASIC
 
 # I. Prequisite
-- Basic understand typescript, html, css
-- Basic using of git
+- Basic understand Typescript, Html, Css
+- Basic using of Git
 - Having knowledge with building web api
 
 # II. Ultimate objective
