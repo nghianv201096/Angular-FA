@@ -1,24 +1,29 @@
 ![Angular](./Images/Angular.png)
 # LEARNING ANGULAR FROM BASIC
 
-
 # I. Prequisite
 - Basic understand typescript, html, css
 - Basic using of git
 - Having knowledge with building web api
 
-# II. After finish this course you can
-- Understand the full lifecycle of building an angular app: setup, implementation(design + code) and deploy.
-- Can build a simple angular web app to allow login, logout, manage list of products like view list of product, view product detail, add a new product, update an existing product or delete it.
+# II. Ultimate objective
+After finish this course you can
+- Understand the full lifecycle of building an angular app: setup, implementation(design + code) and deployment.
+- Can build a basic angular app with features like: 
+    - Login 
+    - Logout
+    - View profile
+    - Manage list of products like view list, view detail, add new, update or delete a product.
 
-# III. Steps to go through
+# III. Syllabus
 ## 1. Setup
 - Install Node.JS, Visual studio, Restful Api Extension, Angular CLI
 - Setup project Web API to run: Visual studio, Source code, ...
 - Using Angular CLI to create a new angular project
+- Try to run the first project
 
 ## 2. Implementation
-### a. Understand how Angular project work and fundamental elements
+### a. Understand fundamental elements and how an Angular project work
 - App structure in a nutshell: Angular app is just a tree of components
 - Fundamental elements of App
     - Components
@@ -28,11 +33,12 @@
     - Modules
 
 ### b. Develop a single component
-#### **Objective**: Can develop an individual component
+#### **Objective**: Can build an individual component
 
-#### **Output**: Done develop following components
+#### **Output**: Done building following components
 - Login component 
 - Logout component
+- View profile component
 - List of product component
 - View product component
 - Update product component
@@ -47,7 +53,7 @@
 - Getting parameters
 - Lifecycle of a component, hook methods
 - Working with basic controls of Prime-NG:
-    - Form
+    - Form controls
     - Table
     - Notification
     - Confirmation
@@ -60,28 +66,34 @@
 - Perform delete with confirmation popup
 
 ## c. Put components together
-#### **Objective**: from the requirement then design the UI/UX, organize flow of page interaction, separate app into component for reuse and easy to develop, put components together to peform a purpose.  
+#### **Objective**: from the requirement then 
+- Organize flow of page interactions
+- Design the UI/UX screen
+- Separate screen into components for reuse and easy to develop
+- Put components together to peform a final purpose.  
 
-#### **Output**: Complete the flow of managing a product list with data is saving in-memory.
+#### **Output**: Complete the flow of managing a product list with data saved in-memory.
 
 #### **Content**
-- Create a wire frame
-- Separate design into components, tree of components, common component for reuse
+- Create a wire frame for flow of page interactions
+- Separate screens into components, tree of components, common component for reuse
 - Exchange data beween components: 
     - Parent component to children component
     - Child component to child component
     - Children components to parent component
     - Between any components
-- Jumping between components
+- Jumping between screens(Routing)
 
 ### d. Integrate with backend api
 
-#### **Objective**: Until now just save data in-memory. Now we persist data to datastore using backend api and using backend to perform business logic.
+#### **Objective**: Until now just save data in-memory. Now we persist data to datastore using backend api and aslo to perform business logic.
 
-#### **Output**: login and logout with api, enhance the management of product list by persist data into database using backend api.
+#### **Output**: 
+- Login and Logout with api
+- Update the management of product list by using backend api
 
 #### **Content**:
-- Environement
+- Environements
 - Restful API Introduction
 - HttpClient for making http request
 - Inject and use services in components
@@ -97,5 +109,3 @@
 # III. Deployment:
 ## 1. Build the project
 ## 2. Deploy to Server: IIS, Azure Web App
-
-
