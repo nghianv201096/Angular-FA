@@ -11,6 +11,7 @@
 You're an .NET developer and already having an Web API with following api:
 - Login, Logout with JWT token
 - Get list of project, create a product, delete a product, update a product
+
 You want to create an angular app that allow login, logout and managing product that will consume your exist apis.
 Then this course is absolutely suitable for you.
 
