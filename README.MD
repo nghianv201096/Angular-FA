@@ -4,14 +4,14 @@ LEARNING ANGULAR FROM BASIC
 # Estimate time (Unit: Session in 3h)
 | Content | Number |
 |---------|--------|
-| ## 1. Setup | 1 |
-| ## 2. Implementation | 14 |
-| ### a. Understand fundamental elements and how an Angular project work | 2 |
-| ### b. Develop a single component | 5 |
-| ### c. Put components together | 3 |
-| ### d. Integrate with backend api | 3 |
-| ### e. Dealing with cross-cutting concerns | 1 |
-| # III. Deployment | 1 |
+| 1. Setup | 1 |
+| 2. Implementation | 14 |
+|     a. Understand fundamental elements and how an Angular project work | 2 |
+|     b. Develop a single component | 5 |
+|     c. Put components together | 3 |
+|     d. Integrate with backend api | 3 |
+|     e. Dealing with cross-cutting concerns | 1 |
+| 3. Deployment | 1 |
 | # Total | 16|
 
 
@@ -129,6 +129,6 @@ Then this course is absolutely what you're finding.
 - Notification
 - Logging
 
-# III. Deployment:
-## 1. Build the project
-## 2. Deploy to Server: IIS, Azure Web App
+## 3. Deployment:
+### a. Build the project
+### b. Deploy to Server: IIS, Azure Web App
