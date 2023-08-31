@@ -1,21 +1,6 @@
 ![Angular](./Images/Angular.png)
 LEARNING ANGULAR FROM BASIC
 
-# Estimate time (Unit: Session in 3h)
-| Module | Number of session |
-|---------|--------|
-| 1. Setup | 1 |
-| 2. Implementation | 14 |
-|     a. Understand fundamental elements and how an Angular project work | 2 |
-|     b. Develop a single component | 5 |
-|     c. Put components together | 3 |
-|     d. Integrate with backend api | 3 |
-|     e. Dealing with cross-cutting concerns | 1 |
-| 3. Deployment | 1 |
-| # Total | 16|
-
-
-# Content
 # I. Prequisite
 - Basic understand Typescript, Html, Css
 - Basic using of Git
@@ -37,6 +22,20 @@ Then this course is absolutely what you're finding.
     - Logout
     - View profile
     - Manage list of products like view list, view detail, add new, update or delete a product.
+
+### 3. Estimate time
+#### Note: Each session is 3 hours.
+| Module | Number of session |
+|---------|--------|
+| 1. Setup | 1 |
+| 2. Implementation | 14 |
+|     a. Understand fundamental elements and how an Angular project work | 2 |
+|     b. Develop a single component | 5 |
+|     c. Put components together | 3 |
+|     d. Integrate with backend api | 3 |
+|     e. Dealing with cross-cutting concerns | 1 |
+| 3. Deployment | 1 |
+| # Total | 16|
 
 # III. Syllabus
 ## 1. Setup
