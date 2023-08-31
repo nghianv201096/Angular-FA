@@ -2,7 +2,7 @@
 LEARNING ANGULAR FROM BASIC
 
 # Estimate time (Unit: Session in 3h)
-| Content | Number |
+| Module | Number of session |
 |---------|--------|
 | 1. Setup | 1 |
 | 2. Implementation | 14 |
