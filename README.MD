@@ -1,6 +1,21 @@
 ![Angular](./Images/Angular.png)
-# LEARNING ANGULAR FROM BASIC
+LEARNING ANGULAR FROM BASIC
 
+# Estimate time (Unit: Session in 3h)
+| Content | Number |
+|---------|--------|
+| ## 1. Setup | 1 |
+| ## 2. Implementation | 14 |
+| ### a. Understand fundamental elements and how an Angular project work | 2 |
+| ### b. Develop a single component | 5 |
+| ### c. Put components together | 3 |
+| ### d. Integrate with backend api | 3 |
+| ### e. Dealing with cross-cutting concerns | 1 |
+| # III. Deployment | 1 |
+| # Total | 16|
+
+
+# Content
 # I. Prequisite
 - Basic understand Typescript, Html, Css
 - Basic using of Git
